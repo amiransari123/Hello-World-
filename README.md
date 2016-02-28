@@ -1,2 +1,3 @@
 # Hello-World-
-This is my first example of GitHub
+Hii
+I am Amir pursuing Msc in Software Engineering in FTMS College
